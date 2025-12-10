@@ -1,2 +1,4 @@
 # resale-HDB
-User dashboard for potential buyers and sellers using resale flat data from 2015 using Tableau, Excel and Pandas.
+Using multi-linear regression equations that have been engineered from past HDB resale flat data since 2015 from data.gov.sg using Pandas, the MDA HDB Data Excel spreadsheet boasts a user-friendly dashboard which helps both sellers and buyers to determine their next course of action from the insights derived when you input your preferences (i.e. flat specifications, monthly income, CPF, grants awarded). For buyers, the dashboard shows the proportion of your savings that will be used to buy a specific type of flat with a predicted flat price using multi-linear regression. For sellers, we can see how much the aforementioned flat would cost in the future, and how much profit you will make from this sale.
+
+The Tableau file helps users to compare different types of flats across different regions in Singapore against different variables.
